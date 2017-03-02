@@ -1,0 +1,2 @@
+cat delpls | sed 's|/bigstore|https://console.developers.google.com/m/cloudstorage/b|g' | sed 's|-output/|-output/o/|g'
+
